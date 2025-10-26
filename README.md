@@ -18,7 +18,7 @@ Wolfstein style rendering software.
 Create a lib and include folder
 
 1. Install OpenGL (GLUT) via MSYS2:
-2. Clone the repository: git clone https://github.com/yourname/volpenstein.git
+2. Clone the repository: git clone [https://github.com/yourname/volpenstein.git](https://github.com/jr4s/volpenstein-3d)
 3. Build the project: make, make run, make clean
 
 
